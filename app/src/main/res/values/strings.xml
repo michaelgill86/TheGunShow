@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Gun Show</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_Mecklenburg">Mecklenburg</string>
+    <string name="title_activity_Davidson">Davidson</string>
+    <string name="title_activity_Rowan">Rowan</string>
+    <string name="title_activity_roco_gk">rocoGK</string>
+    <string name="this_is_the_gun_show">This is The Gun Show</string>
+    <string name="rowan">Rowan</string>
+    <string name="davidson">Davidson</string>
+    <string name="rowan_county">Rowan County</string>
+    <string name="gun_and_knife_show">Gun and Knife Show</string>
+    <string name="salisbury_gun_knife_show"><![CDATA[Salisbury Gun & Knife Show]]></string>
+    <string name="october_12_13_2019">October 12-13, 2019</string>
+    <string name="button">Button</string>
+</resources>
